@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.4385a983.css",
-    "main.js": "./static/js/main.e8509f56.js",
+    "main.css": "./static/css/main.fe35d5a9.css",
+    "main.js": "./static/js/main.86712d0e.js",
     "static/media/me.jpg": "./static/media/me.1166f478c4363661c9be.jpg",
+    "static/media/ECSEKS.png": "./static/media/ECSEKS.3020cf29f80f8c04e6b0.png",
     "static/media/cv.pdf": "./static/media/cv.af350e5e1f9f879f8237.pdf",
+    "static/media/fgts.png": "./static/media/fgts.05162df5fc1b46f66ae9.png",
+    "static/media/wikijs.png": "./static/media/wikijs.680c12a06b785ea2c363.png",
+    "static/media/sos.png": "./static/media/sos.ec0e2edb6b570ef87e94.png",
     "static/media/bannerFooter.svg": "./static/media/bannerFooter.d2f7d03512f331bc1bb546036a9b0394.svg",
+    "static/media/sefaz.jpg": "./static/media/sefaz.bf0bd0ca07b095d75d4b.jpg",
+    "static/media/SysAid.png": "./static/media/SysAid.598fb59c2f876bbb9565.png",
+    "static/media/MicrosoftOCS.webp": "./static/media/MicrosoftOCS.dc937d223f2b82a4006b.webp",
     "static/media/undraw_programming_re_kg9v.svg": "./static/media/undraw_programming_re_kg9v.8d2f64aa6e8c4f9f5987b86529b21dba.svg",
+    "static/media/jenkins_gitlab.png": "./static/media/jenkins_gitlab.679928ce3d47596c2481.png",
+    "static/media/tcibpo.png": "./static/media/tcibpo.37d788c5505615e611d0.png",
+    "static/media/vault.jpg": "./static/media/vault.0bd65a4e56865d7a1c2b.jpg",
+    "static/media/caixatem.png": "./static/media/caixatem.bacb2b114a293c4787fd.png",
     "index.html": "./index.html",
-    "main.4385a983.css.map": "./static/css/main.4385a983.css.map",
-    "main.e8509f56.js.map": "./static/js/main.e8509f56.js.map"
+    "main.fe35d5a9.css.map": "./static/css/main.fe35d5a9.css.map",
+    "main.86712d0e.js.map": "./static/js/main.86712d0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4385a983.css",
-    "static/js/main.e8509f56.js"
+    "static/css/main.fe35d5a9.css",
+    "static/js/main.86712d0e.js"
   ]
 }
